@@ -1,3 +1,5 @@
+Checkout the site [here!](https://harshvardhanss.github.io/Bookshelf)
+
 # Bookshelf - Online Bookstore Website
 Welcome to Bookshelf, our online bookstore website! This website is built using HTML, CSS, and JavaScript and is designed to make it easy for you to browse and purchase books online.
 
@@ -30,5 +32,3 @@ If you would like to contribute to the development of this website, please conta
 Please feel free to submit any issues or feature requests through GitHub.
 
 Enjoy Bookshelf!
-
-### Have a look at some screenshots of the website - click here https://github.com/HarshvardhanSinghS/Bookshelf/tree/master/screenshots
